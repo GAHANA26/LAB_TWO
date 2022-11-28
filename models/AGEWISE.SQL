@@ -1,4 +1,3 @@
-select * 
-    from lab_two.patient
-    count(DOB) 
+select  count(DOB)
+    from lab_two.patient 
     order by patient.DOB
