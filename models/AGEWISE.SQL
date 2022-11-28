@@ -1,3 +1,3 @@
 select * 
     from lab_two.patient
-    order by patient.age
+    order by patient.DOB
