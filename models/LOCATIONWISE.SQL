@@ -1,5 +1,5 @@
 select * 
     from lab_two.patient
-    order by patient.address;
+    order by patient.address
 
 
