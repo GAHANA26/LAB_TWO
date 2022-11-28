@@ -3,4 +3,4 @@
 
 select * 
     from lab_two.patient
-    groupby address;
+    group by address;
