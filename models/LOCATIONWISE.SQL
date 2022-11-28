@@ -1,5 +1,5 @@
-select patient.address
+select * 
     from lab_two.patient
-    
+    order by patient.address;
 
 
