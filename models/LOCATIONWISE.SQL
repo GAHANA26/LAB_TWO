@@ -1,6 +1,7 @@
 
 
 
-select * 
+select * (
     from lab_two.patient
-    group by address;
+    group by patient.address 
+),
